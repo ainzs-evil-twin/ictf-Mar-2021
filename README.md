@@ -10,7 +10,7 @@ Some challenges for Imaginary CTF - March 2021
 | # | Challenge Name | Category | Difficulty |
 |:-:|:--------------:|:--------:|:----------:|
 | 1 | [transposed](../main/transposed/README.md) | Crypto | Easy |
-| 2 | [grilled-cipher](../main/grilled-cipher/README.md) | Crypto | Easy |
+| 2 | [grilled-cipher](../main/grilled-cipher/README.md) | Forensics, Crypto | Easy |
 | 3 | [babels-wisdom](../main/babels-wisdom/README.md) | OSINT | Easy |
 | 4 | [php1](../main/php1/README.md) | Web | Moderate |
 | 5 | [php2](../main/php2/README.md) | Web | Moderate |
