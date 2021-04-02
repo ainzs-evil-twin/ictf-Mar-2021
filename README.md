@@ -14,16 +14,6 @@ Some challenges for Imaginary CTF - March 2021
 | 3 | [babels-wisdom](../main/babels-wisdom/README.md) | OSINT | Easy |
 | 4 | [cast-rsa](../main/cast-rsa/README.md) | Crypto | Moderate |
 | 5 | [easy-rev](../main/easy-rev/README.md) | Reversing | Easy |
-| 6 | [php1](../main/php1/README.md) | Web | Moderate |
-| 7 | [sqli?](../main/TBD/README.md) | Web | Easy |
-| 8 | [php2](../main/php2/README.md) | Web | Moderate |
-| 9 | [php3](../main/php3/README.md) | Web | Moderate |
-| 10 | [pyjail2](../main/pyjail1/README.md) | Misc(jail-escape) | Easy |
-| 11 | [pyjail3](../main/pyjail1/README.md) | Misc(jail-escape) | Moderate |
-| 12 | [rsa?](../main/TBD/README.md) | Crypto | Moderate |
-| 13 | [rsa?](../main/TBD/README.md) | Crypto | Difficult |
-| 14 | [rsa?](../main/TBD/README.md) | Crypto | Difficult |
-
 
 ## Flag format
 
